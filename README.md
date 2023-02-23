@@ -1,7 +1,7 @@
 # UTILS_EME_BLAST
 Conjunto de utilidades docentes para las prácticas de las asignaturas de explosivos y voladuras impartidas en las titulaciones de Minas de la Escuela de Minas y Energía de la Universidad de Vigo.
 
-Para su uso y correcta interpretación de los resultados es necesario haber adquirido los conocimientos desarrollados en las clases de las asignaturas.
+Para su uso y correcta interpretación de los resultados es necesario haber adquirido los conocimientos desarrollados en las clases de las materias.
 
 Son ficheros en formato binario de Excel:
 - 1-Pract_Termo
