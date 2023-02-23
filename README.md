@@ -12,7 +12,7 @@ Son ficheros en formato binario de Excel:
   Aplicación de la teoría de Langefors para el cálculo de bancos bajos
 - 3-Pract_Banqueo_Ordinario_Lang
   
-  Langefors aplicado al banqueo ordinario. Incluye diversas utilidades: estimación de costes, fragmentación, desplazamiento, proyección, vibraciones, etc.
+  Langefors aplicado al banqueo ordinario. Incluye además diversas utilidades: estimación de costes, fragmentación, desplazamiento, proyección, vibraciones, etc.
 - 4-Pract_Damage_H_P
   
   Implementación del modelo de Holmberg y Persson para la estimación de vibraciones en el campo cercano (alcance del daño)
